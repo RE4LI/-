@@ -1,2 +1,2 @@
-# -
-只因你太美，欧包
+#LvTosi
+print("Hello,World!")
